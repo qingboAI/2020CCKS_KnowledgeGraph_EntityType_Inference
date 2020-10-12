@@ -1,2 +1,3 @@
 # 2020CCKS_KnowledgeGraph_EntityType_Inference
 新冠知识图谱构建与问答评测（一）新冠百科知识图谱类型推断 第二名
+
